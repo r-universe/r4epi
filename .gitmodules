@@ -7,7 +7,9 @@
 	path = apyramid
 	url = https://github.com/r4epi/apyramid
 	shallow = true
+	registered = true
 [submodule "epikit"]
 	path = epikit
 	url = https://github.com/r4epi/epikit
 	shallow = true
+	registered = true
