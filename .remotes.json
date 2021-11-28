@@ -1,14 +1,50 @@
 [
   {
+    "package": "apyramid",
+    "url": "https://github.com/R4EPI/apyramid",
+    "via": ["sitrep"],
+    "from": "sitrep"
+  },
+  {
     "package": "epidict",
     "url": "https://github.com/R4EPI/epidict",
     "via": ["epitabulate"],
     "from": "epitabulate"
   },
   {
+    "package": "epidict",
+    "url": "https://github.com/R4EPI/epidict",
+    "via": ["sitrep", "epitabulate"],
+    "from": "sitrep"
+  },
+  {
+    "package": "epidict",
+    "url": "https://github.com/R4EPI/epidict",
+    "via": ["sitrep"],
+    "from": "sitrep"
+  },
+  {
     "package": "epikit",
     "url": "https://github.com/R4EPI/epikit",
     "via": ["epitabulate"],
     "from": "epitabulate"
+  },
+  {
+    "package": "epikit",
+    "url": "https://github.com/R4EPI/epikit",
+    "via": ["sitrep", "epitabulate"],
+    "from": "sitrep"
+  },
+  {
+    "package": "epitabulate",
+    "url": "https://github.com/R4EPI/epitabulate",
+    "via": ["sitrep"],
+    "from": "sitrep"
+  },
+  {
+    "package": "linelist",
+    "url": "https://github.com/reconhub/linelist",
+    "via": ["sitrep"],
+    "from": "sitrep"
   }
 ]
