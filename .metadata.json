@@ -1,10 +1,31 @@
 [
   {
-    "package": "apyramid",
+    "package": "aweek",
     "oncran": true
+  },
+  {
+    "package": "incidence",
+    "oncran": true
+  },
+  {
+    "package": "matchmaker",
+    "oncran": true
+  },
+  {
+    "package": "epidict"
   },
   {
     "package": "epikit",
     "oncran": true
+  },
+  {
+    "package": "apyramid",
+    "oncran": true
+  },
+  {
+    "package": "epitabulate"
+  },
+  {
+    "package": "sitrep"
   }
 ]
