@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r4epi/universe
+	url = https://github.com/r4epi/r4epi.r-universe.dev
 	branch = HEAD
 [submodule "apyramid"]
 	path = apyramid
