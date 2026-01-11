@@ -5,9 +5,6 @@
 [submodule "apyramid"]
 	path = apyramid
 	url = https://github.com/r4epi/apyramid
-[submodule "aweek"]
-	path = aweek
-	url = https://github.com/reconhub/aweek
 [submodule "epidict"]
 	path = epidict
 	url = https://github.com/r4epi/epidict
@@ -16,10 +13,7 @@
 	url = https://github.com/r4epi/epikit
 [submodule "epitabulate"]
 	path = epitabulate
-	url = https://github.com/r4epi/epibuffet
-[submodule "incidence"]
-	path = incidence
-	url = https://github.com/reconhub/incidence
+	url = https://github.com/r4epi/epitabulate
 [submodule "matchmaker"]
 	path = matchmaker
 	url = https://github.com/reconhub/matchmaker
